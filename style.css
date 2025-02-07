@@ -1,0 +1,28 @@
+*,
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(34, 34, 34);
+}
+
+.container {
+  color: rgba(255, 255, 255, 0.349);
+  max-height: 100vh;
+  max-width: 100vw;
+  overflow: hidden;
+  background-image: url("./badapple.gif");
+  background-size: cover;
+  background-position: center;
+  background-clip: text;
+  font-size: 1rem;
+  font-weight: 900;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  text-wrap: wrap;
+  -wekbit-background-clip: text;
+}
