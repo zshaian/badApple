@@ -15,7 +15,6 @@ body {
   max-height: 100vh;
   max-width: 100vw;
   overflow: hidden;
-  background-image: url("./badapple.gif");
   background-size: cover;
   background-position: center;
   background-clip: text;
