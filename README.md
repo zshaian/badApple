@@ -4,7 +4,7 @@ iconic bad apple in a website.
 
 ## Live Site :rocket:
 
-- [bad4pple](https://bad4pple.netlify.app/)
+- [bad4pple](https://zshaian.github.io/bad4pple/)
 
 ## Credits
 
