@@ -1,6 +1,6 @@
 # BAD APPLE!
 
-iconic bad apple in a website.
+iconic bad apple in a website text.
 
 ## Live Site :rocket:
 
