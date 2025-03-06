@@ -208,6 +208,7 @@ Autem illo cum, necessitatibus quo, temporibus delectus enim officiis culpa et v
 ];
 
 const container = document.getElementById("container-element");
+const previewElement = document.getElementById("preview-element");
 const textElement = document.getElementById("text-element");
 const audio = new Audio("./assets/badapple.mp3");
 
@@ -220,6 +221,7 @@ const start = () => {
   audio.play();
   setTimeout(() => {
     container.style.backgroundImage = "url('./assets/badapple.gif')";
+    previewElement.src = "./assets/badapple.gif";
   }, 500);
   setInterval(updateText, 30);
   window.removeEventListener("click", start);

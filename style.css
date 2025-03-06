@@ -24,4 +24,16 @@ body {
   font-family: sans-serif;
   text-wrap: wrap;
   -wekbit-background-clip: text;
+  position: relative;
+}
+
+.preview {
+  color: white;
+  height: 200px;
+  width: 300px;
+  top: 0;
+  right: 0;
+  position: absolute;
+  background-color: black;
+  text-align: center;
 }
